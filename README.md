@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Hermit Md Whatsapp Bot
-Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+## rabbit Md Whatsapp Bot
+Rabbit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 
 ***
 
